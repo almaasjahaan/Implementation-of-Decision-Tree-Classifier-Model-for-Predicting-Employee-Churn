@@ -1,4 +1,4 @@
-# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+![image](https://github.com/user-attachments/assets/c5a99e87-7615-421a-ad07-42ab083397c6)# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
@@ -72,11 +72,10 @@ print("Sample Prediction:", sample_prediction)
 
 ## Output:
 ![decision tree classifier model](sam.png)
-![image](https://github.com/user-attachments/assets/efae82e0-978d-4365-9e27-1419ea3a3154)
 
-![image](https://github.com/user-attachments/assets/cd4f93ce-ab17-46b6-8b07-ec5836febd62)
+![image](https://github.com/user-attachments/assets/e0dbe337-d88a-4548-9c28-e6e9773c771a)
 
-![image](https://github.com/user-attachments/assets/48f56d91-6fc8-4856-8fac-306b33fdcc21)
+![image](https://github.com/user-attachments/assets/23dbaf94-435d-47fa-970e-ad64a9835e70)
 
 
 
